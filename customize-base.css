@@ -1,27 +1,6 @@
 .mobile .theme-style .tabs.isLogin {
     height: 6.5rem !important;
 }
-.pc body.champagne-gold-theme {
-  background-image: url("https://cdn.bdr8k8.com/backg/bandarmerdeka1v2.webp") !important;
-  background-position: center top !important;
-  background-repeat: no-repeat !important;
-  background-size: cover !important;
-  background-attachment: fixed !important;
-}
-.mobile body {
-  background-image: url("https://cdn.bdr8k8.com/backg/bandarmbmerdeka1v2.webp") !important;
-  background-position: center top !important;
-  background-repeat: no-repeat !important;
-  background-size: cover !important;
-  background-attachment: scroll !important;
-}
-.champagne-gold-theme section {
-    background-image: url("https://cdn.bdr8k8.com/backg/bandarmbmerdeka1v2.webp") !important;
-  background-position: center top !important;
-  background-repeat: no-repeat !important;
-  background-size: cover !important;
-  background-attachment: scroll !important;
-}
 .black-gold-theme section#index {
   background: #00000080 !important;
 }
@@ -42,34 +21,6 @@
 }
 footer {
   border-radius: 0 !important;
-}
-.pc .champagne-gold-theme .game-list .game-menu .hot-menu,
-.mobile .champagne-gold-theme .game-list .game-menu .hot-menu {
-  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrhot.webp") !important;
-}
-.pc .champagne-gold-theme .game-list .game-menu .live-menu,
-.mobile .champagne-gold-theme .game-list .game-menu .live-menu {
-  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrlivegames.webp") !important;
-}
-.pc .champagne-gold-theme .game-list .game-menu .elgame-menu,
-.mobile .champagne-gold-theme .game-list .game-menu .elgame-menu {
-  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrslot.webp") !important;
-}
-.pc .champagne-gold-theme .game-list .game-menu .lottery-menu,
-.mobile .champagne-gold-theme .game-list .game-menu .lottery-menu {
-  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrtogel.webp") !important;
-}
-.pc .champagne-gold-theme .game-list .game-menu .sport-menu,
-.mobile .champagne-gold-theme .game-list .game-menu .sport-menu {
-  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrsport.webp") !important;
-}
-.pc .champagne-gold-theme .game-list .game-menu .fish-menu,
-.mobile .champagne-gold-theme .game-list .game-menu .fish-menu {
-  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrikan.webp") !important;
-}
-.pc .champagne-gold-theme .game-list .game-menu .card-menu,
-.mobile .champagne-gold-theme .game-list .game-menu .card-menu {
-  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrarcade.webp") !important;
 }
 .champagne-gold-theme .game-list .game-menu .game-menu-item i {
   display: none !important;
@@ -303,11 +254,6 @@ body.champagne-gold-theme #articlerule li {
     right: calc(30.5%);
     flex-direction: column;
     bottom: calc(4%);
-}
-.mobile .theme-style footer {
-    background: url(https://cdn.gambaraset.com/bandartoto/bot.webp) no-repeat center top;
-    height: 4.5rem;
-    background-size: cover;
 }
 .mobile .champagne-gold-theme footer .nav-item h3 {
     color: #fed804 !important;
@@ -571,136 +517,6 @@ body.champagne-gold-theme .more-menu-box .logoutIcon a.jq-logout-btn,
   100% {
     left: 120%;
   }
-}
-.game-item[data-nodename="CRYPTO FUTURES"] img[alt="CRYPTO FUTURES"] {
-  content: url("https://cdn.ope8k8.com/CRYPTO%20FUTURES.webp") !important;
-}
-.game-item[data-nodename="SBO"] img[alt="SBO"] {
-  content: url("https://cdn.ope8k8.com/SBOBET.webp") !important;
-}
-.game-item[data-nodename="SABA"] img[alt="SABA"] {
-  content: url("https://cdn.ope8k8.com/SABA.webp") !important;
-}
-.game-item[data-nodename="PRAGMATIC PLAY SLOT"] img[alt="PRAGMATIC PLAY SLOT"] {
-  content: url("https://cdn.ope8k8.com/pragmatic%20(1).webp") !important;
-}
-.game-item[data-nodename="PG"] img[alt="PG"] {
-  content: url("https://cdn.ope8k8.com/pg.webp") !important;
-}
-.game-item[data-nodename="PNG SLOT"] img[alt="PNG SLOT"] {
-  content: url("https://cdn.ope8k8.com/png.webp") !important;
-}
-.game-item[data-nodename="WOWGAMING"] img[alt="WOWGAMING"] {
-  content: url("https://cdn.ope8k8.com/wow%20(1).webp") !important;
-}
-.game-item[data-nodename="GGSOFT"] img[alt="GGSOFT"] {
-  content: url("https://cdn.ope8k8.com/gg.webp") !important;
-}
-.game-item[data-nodename="PLAYSTAR"] img[alt="PLAYSTAR"] {
-  content: url("https://cdn.ope8k8.com/playstar.webp") !important;
-}
-.game-item[data-nodename="NOLIMITCITY"] img[alt="NOLIMITCITY"] {
-  content: url("https://cdn.ope8k8.com/nolimit.webp") !important;
-}
-.game-item[data-nodename="JILI SLOT"] img[alt="JILI SLOT"] {
-  content: url("https://cdn.ope8k8.com/JILI.webp") !important;
-}
-.game-item[data-nodename="ASK SLOT"] img[alt="ASK SLOT"] {
-  content: url("https://cdn.ope8k8.com/ask.webp") !important;
-}
-.game-item[data-nodename="HABANERO"] img[alt="HABANERO"] {
-  content: url("https://cdn.ope8k8.com/habanero.webp") !important;
-}
-.game-item[data-nodename="HACKSAW"] img[alt="HACKSAW"] {
-  content: url("https://cdn.ope8k8.com/hacksaw.webp") !important;
-}
-.game-item[data-nodename="5G"] img[alt="5G"] {
-  content: url("https://cdn.ope8k8.com/5g.webp") !important;
-}
-.game-item[data-nodename="JOKER SLOT"] img[alt="JOKER SLOT"] {
-  content: url("https://cdn.ope8k8.com/joker.webp") !important;
-}
-.game-item[data-nodename="RED TIGER"] img[alt="RED TIGER"] {
-  content: url("https://cdn.ope8k8.com/redtiger.webp") !important;
-}
-.game-item[data-nodename="NETENT"] img[alt="NETENT"] {
-  content: url("https://cdn.ope8k8.com/netent.webp") !important;
-}
-.game-item[data-nodename="BIGTIMEGAMING"] img[alt="BIGTIMEGAMING"] {
-  content: url("https://cdn.ope8k8.com/bigtime.webp") !important;
-}
-.game-item[data-nodename="PLAYTECH SLOT"] img[alt="PLAYTECH SLOT"] {
-  content: url("https://cdn.ope8k8.com/playtech.webp") !important;
-}
-.game-item[data-nodename="PNG LIVE"] img[alt="PNG LIVE"] {
-  content: url("https://cdn.ope8k8.com/pnglive.webp") !important;
-}
-.game-item[data-nodename="PRAGMATIC PLAY"] img[alt="PRAGMATIC PLAY"] {
-  content: url("https://cdn.ope8k8.com/pragm.webp") !important;
-}
-.game-item[data-nodename="EVOLUTION"] img[alt="EVOLUTION"] {
-  content: url("https://cdn.ope8k8.com/evo.webp") !important;
-}
-.game-item[data-nodename="SEXYGAMING"] img[alt="SEXYGAMING"] {
-  content: url("https://cdn.ope8k8.com/sexy.webp") !important;
-}
-.game-item[data-nodename="EMPIRE GAMING"] img[alt="EMPIRE GAMING"] {
-  content: url("https://cdn.ope8k8.com/empire.webp") !important;
-}
-.game-item[data-nodename="TGION"] img[alt="TGION"] {
-  content: url("https://cdn.ope8k8.com/ion.webp") !important;
-}
-.game-item[data-nodename="SA GAMING"] img[alt="SA GAMING"] {
-  content: url("https://cdn.ope8k8.com/sagaming.webp") !important;
-}
-.game-item[data-nodename="BG"] img[alt="BG"] {
-  content: url("https://cdn.ope8k8.com/biggaming.webp") !important;
-}
-.game-item[data-nodename="AP"] img[alt="AP"] {
-  content: url("https://cdn.ope8k8.com/APGAMING.webp") !important;
-}
-.game-item[data-nodename="TF"] img[alt="TF"] {
-  content: url("https://cdn.ope8k8.com/TF%20GAMING.webp") !important;
-}
-.game-item[data-nodename="JILI FISHING"] img[alt="JILI FISHING"] {
-  content: url("https://cdn.ope8k8.com/JILI%20FISHING.webp") !important;
-}
-.game-item[data-nodename="ASK FISHING"] img[alt="ASK FISHING"] {
-  content: url("https://cdn.ope8k8.com/ASK%20FISHING.webp") !important;
-}
-.game-item[data-nodename="Plinko Circus"] img[alt="Plinko Circus"] {
-  content: url("https://cdn.bdr8k8.com/games/plinkocircus.webp") !important;
-}
-.game-item[data-nodename="Keno Matrix"] img[alt="Keno Matrix"] {
-  content: url("https://cdn.bdr8k8.com/games/kenomatrix.webp") !important;
-}
-.game-item[data-nodename="BlingBangBall"] img[alt="BlingBangBall"] {
-  content: url("https://cdn.ope8k8.com/BLINGBALL.webp") !important;
-}
-.game-item[data-nodename="Domino-Auto"] img[alt="Domino-Auto"] {
-  content: url("https://cdn.ope8k8.com/DOMINO%20AUTO.webp") !important;
-}
-.game-item[data-nodename="Texas-Auto"] img[alt="Texas-Auto"] {
-  content: url("https://cdn.ope8k8.com/TEXAS%20AUTO.webp") !important;
-}
-.game-item[data-nodename="TIGER-Auto"] img[alt="TIGER-Auto"] {
-  content: url("https://cdn.ope8k8.com/TIGER%20AUTO.webp") !important;
-}
-.game-item[data-nodename="ROULETTE-AUTO"] img[alt="ROULETTE-AUTO"] {
-  content: url("https://cdn.ope8k8.com/ROULETTE%20AUTO.webp") !important;
-}
-.game-item[data-nodename="Dice-Auto"] img[alt="Dice-Auto"] {
-  content: url("https://cdn.ope8k8.com/DICE%20AUTO.webp") !important;
-}
-.game-item[data-nodename="Baccarat-Auto"] img[alt="Baccarat-Auto"] {
-  content: url("https://cdn.bdr8k8.com/games/BACCARAT%20AUTO.webp") !important;
-}
-.game-item[data-nodename="Domino 2"] img[alt="Domino 2"] {
-  content: url("https://cdn.ope8k8.com/DOMINO%202.webp") !important;
-}
-
-.champagne-gold-theme .game-list .game-menu p {
-    background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrpolosan.webp") !important;
 }
 .champagne-gold-theme .game-list .game-menu .game-menu-current {
   margin-top: 0 !important;
