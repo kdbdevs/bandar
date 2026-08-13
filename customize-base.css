@@ -937,8 +937,10 @@ body.champagne-gold-theme .bank-status-list .deposit-banklist dd.bank {
   justify-content: center !important;
   min-height: 48px !important;
   width: min(360px, 100%) !important;
+  max-width: 100% !important;
   margin: 18px auto 0 !important;
   padding: 0 24px !important;
+  box-sizing: border-box !important;
   overflow: hidden !important;
   border: 1px solid rgba(254, 216, 4, 0.78) !important;
   border-radius: 12px 0 12px 0 !important;
