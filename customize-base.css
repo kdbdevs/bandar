@@ -1201,8 +1201,10 @@ body.champagne-gold-theme #withdrawal .submit {
   justify-content: center !important;
   min-height: 46px !important;
   width: min(360px, 100%) !important;
+  max-width: 100% !important;
   margin: 14px auto !important;
   padding: 0 24px !important;
+  box-sizing: border-box !important;
   overflow: hidden !important;
   border: 1px solid rgba(254, 216, 4, 0.78) !important;
   border-radius: 12px 0 12px 0 !important;
