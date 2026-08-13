@@ -1,0 +1,1731 @@
+.mobile .theme-style .tabs.isLogin {
+    height: 6.5rem !important;
+}
+.pc body.champagne-gold-theme {
+  background-image: url("https://cdn.bdr8k8.com/backg/bandarmerdeka1v2.webp") !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+}
+.mobile body {
+  background-image: url("https://cdn.bdr8k8.com/backg/bandarmbmerdeka1v2.webp") !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-attachment: scroll !important;
+}
+.champagne-gold-theme section {
+    background-image: url("https://cdn.bdr8k8.com/backg/bandarmbmerdeka1v2.webp") !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-attachment: scroll !important;
+}
+.black-gold-theme section#index {
+  background: #00000080 !important;
+}
+.black-gold-theme .tabs,
+.black-gold-theme .tabs .logo,
+.black-gold-theme .user,
+.pc .black-gold-theme .index-footer {
+  background: #000 !important;
+}
+.pc .black-gold-theme footer .nav-item-active {
+  background-color: #000000;
+  color: #fff;
+  border: none;
+  position: relative;
+}
+.pc .index-footer {
+  margin-left: -700px !important;
+}
+footer {
+  border-radius: 0 !important;
+}
+.pc .champagne-gold-theme .game-list .game-menu .hot-menu,
+.mobile .champagne-gold-theme .game-list .game-menu .hot-menu {
+  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrhot.webp") !important;
+}
+.pc .champagne-gold-theme .game-list .game-menu .live-menu,
+.mobile .champagne-gold-theme .game-list .game-menu .live-menu {
+  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrlivegames.webp") !important;
+}
+.pc .champagne-gold-theme .game-list .game-menu .elgame-menu,
+.mobile .champagne-gold-theme .game-list .game-menu .elgame-menu {
+  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrslot.webp") !important;
+}
+.pc .champagne-gold-theme .game-list .game-menu .lottery-menu,
+.mobile .champagne-gold-theme .game-list .game-menu .lottery-menu {
+  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrtogel.webp") !important;
+}
+.pc .champagne-gold-theme .game-list .game-menu .sport-menu,
+.mobile .champagne-gold-theme .game-list .game-menu .sport-menu {
+  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrsport.webp") !important;
+}
+.pc .champagne-gold-theme .game-list .game-menu .fish-menu,
+.mobile .champagne-gold-theme .game-list .game-menu .fish-menu {
+  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrikan.webp") !important;
+}
+.pc .champagne-gold-theme .game-list .game-menu .card-menu,
+.mobile .champagne-gold-theme .game-list .game-menu .card-menu {
+  background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrarcade.webp") !important;
+}
+.champagne-gold-theme .game-list .game-menu .game-menu-item i {
+  display: none !important;
+}
+.champagne-gold-theme .notice {
+  background: #00000080 !important;
+  border-bottom: none !important;
+}
+body.champagne-gold-theme .game-bank-rule,
+body.champagne-gold-theme #articlerule {
+  margin: 14px 1rem 7rem !important;
+  color: #f5f5f5 !important;
+}
+body.champagne-gold-theme .game-bank-rule .home-banklist,
+body.champagne-gold-theme #articlerule .home-banklist {
+  position: relative !important;
+  display: block !important;
+  height: auto !important;
+  min-height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: visible !important;
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 12px !important;
+  box-shadow: none !important;
+}
+body.champagne-gold-theme .game-bank-rule dt,
+body.champagne-gold-theme #articlerule dt {
+  width: auto !important;
+  height: 3.5rem !important;
+  margin: 0 !important;
+  line-height: 3.5rem !important;
+  border-radius: 12px 12px 0 0 !important;
+  background:
+    linear-gradient(180deg, rgba(35, 35, 35, 0.96), rgba(5, 5, 5, 0.96)) !important;
+  border-bottom: 1px solid rgba(254, 216, 4, 0.24) !important;
+  color: #fed804 !important;
+  font-weight: 900 !important;
+  text-shadow: 0 0 10px rgba(254, 216, 4, 0.34) !important;
+}
+body.champagne-gold-theme .game-bank-rule .bank-rule,
+body.champagne-gold-theme #articlerule .bank-rule {
+  position: relative !important;
+  left: auto !important;
+  right: auto !important;
+  display: block !important;
+  width: auto !important;
+  height: auto !important;
+  max-height: 360px !important;
+  margin: 0 !important;
+  padding: 14px 16px !important;
+  overflow: auto !important;
+  box-sizing: border-box !important;
+  background: rgba(0, 0, 0, 0.66) !important;
+  border: 1px solid rgba(254, 216, 4, 0.22) !important;
+  border-top: 0 !important;
+  border-radius: 0 0 12px 12px !important;
+  color: #f4f4f4 !important;
+  line-height: 1.65 !important;
+  text-align: left !important;
+  text-transform: none !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.05),
+    0 8px 18px rgba(0, 0, 0, 0.35) !important;
+}
+body.champagne-gold-theme .game-bank-rule .home-banklist.off .bank-rule,
+body.champagne-gold-theme #articlerule .home-banklist.off .bank-rule {
+  display: none !important;
+}
+body.champagne-gold-theme .game-bank-rule .word-content,
+body.champagne-gold-theme #articlerule .word-content {
+  display: block !important;
+  max-height: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: visible !important;
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  color: #f4f4f4 !important;
+  line-height: 1.65 !important;
+  text-align: left !important;
+  text-transform: none !important;
+}
+body.champagne-gold-theme .game-bank-rule .article-title,
+body.champagne-gold-theme .game-bank-rule h1,
+body.champagne-gold-theme .game-bank-rule h2,
+body.champagne-gold-theme .game-bank-rule h3,
+body.champagne-gold-theme .game-bank-rule h4,
+body.champagne-gold-theme #articlerule .article-title,
+body.champagne-gold-theme #articlerule h1,
+body.champagne-gold-theme #articlerule h2,
+body.champagne-gold-theme #articlerule h3,
+body.champagne-gold-theme #articlerule h4 {
+  color: #fed804 !important;
+  text-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.95),
+    0 0 10px rgba(254, 216, 4, 0.22) !important;
+}
+body.champagne-gold-theme .game-bank-rule p,
+body.champagne-gold-theme .game-bank-rule li,
+body.champagne-gold-theme .game-bank-rule span,
+body.champagne-gold-theme #articlerule p,
+body.champagne-gold-theme #articlerule li,
+body.champagne-gold-theme #articlerule span {
+  color: #f1f1f1 !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.85) !important;
+}
+body.champagne-gold-theme .game-bank-rule a,
+body.champagne-gold-theme #articlerule a {
+  color: #fed804 !important;
+  -webkit-text-fill-color: #fed804 !important;
+  text-shadow: 0 0 8px rgba(254, 216, 4, 0.28) !important;
+}
+body.champagne-gold-theme .game-bank-rule ul,
+body.champagne-gold-theme .game-bank-rule ol,
+body.champagne-gold-theme #articlerule ul,
+body.champagne-gold-theme #articlerule ol {
+  margin: 8px 0 14px 22px !important;
+  padding-left: 18px !important;
+  color: #f1f1f1 !important;
+  text-align: left !important;
+  list-style-position: outside !important;
+}
+body.champagne-gold-theme .game-bank-rule ul,
+body.champagne-gold-theme #articlerule ul {
+  list-style-type: disc !important;
+}
+body.champagne-gold-theme .game-bank-rule ol,
+body.champagne-gold-theme #articlerule ol {
+  list-style-type: decimal !important;
+}
+body.champagne-gold-theme .game-bank-rule li,
+body.champagne-gold-theme #articlerule li {
+  display: list-item !important;
+  margin: 4px 0 !important;
+  padding-left: 2px !important;
+  line-height: 1.55 !important;
+}
+.champagne-gold-theme .user .password, .champagne-gold-theme .user .username {
+    background: #fff !important;
+    border-radius: 0 10px;
+}
+.champagne-gold-theme .user .loginBtn {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #fff349, #fed804) !important;
+  border: 1px solid #ffe08a !important;
+  border-radius: 10px 0 !important;
+  box-shadow:
+    0 0 8px rgba(243, 201, 71, 0.45),
+    inset 0 0 8px rgba(255, 240, 164, 0.35) !important;
+  color: #232323 !important;
+}
+.champagne-gold-theme .user .loginBtn::before {
+  content: "";
+  position: absolute;
+  top: -60%;
+  left: -45%;
+  width: 35%;
+  height: 220%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.9),
+    transparent
+  );
+  transform: skewX(-24deg);
+  animation: login-btn-shine 2.2s linear infinite;
+  pointer-events: none;
+}
+.mobile .champagne-gold-theme .tabs .tab[data-href="#/register"] {
+    position: absolute;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #fff349, #fed804) !important;
+    border: 1px solid #ffe08a !important;
+    border-radius: 10px 0 !important;
+    box-shadow: 0 0 8px rgba(243, 201, 71, 0.45), inset 0 0 8px rgba(255, 240, 164, 0.35) !important;
+    color: #232323 !important;
+    -webkit-text-fill-color: #232323 !important;
+    width: calc(12%) !important;
+    right: 1%;
+}
+.mobile .champagne-gold-theme .tabs .tab[data-href="#/register"]::before {
+  content: "";
+  position: absolute;
+  top: -60%;
+  left: -45%;
+  width: 35%;
+  height: 220%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.9),
+    transparent
+  );
+  transform: skewX(-24deg);
+  animation: login-btn-shine 2.2s linear infinite;
+  pointer-events: none;
+}
+.mobile .champagne-gold-theme .tabs .tab[data-href="#/register"] img,
+.mobile .champagne-gold-theme .tabs .tab[data-href="#/register"] b {
+  position: relative;
+  z-index: 1;
+}
+.mobile .champagne-gold-theme .tabs .tab[data-href="#/register"] b {
+    color: #232323 !important;
+    -webkit-text-fill-color: #232323 !important;
+    font-size: 13px !important;
+    font-weight: 800;
+}
+.mobile .tabs .tab {
+    font-size: 0.8rem !important;
+}
+.mobile .champagne-gold-theme .tabs .tab[data-href="#/register"] img {
+  filter: brightness(0) saturate(100%) !important;
+}
+@keyframes login-btn-shine {
+  0% {
+    left: -45%;
+  }
+  100% {
+    left: 115%;
+  }
+}
+.mobile .tabs .tab.tab-forget {
+    display: flex;
+    position: absolute;
+    right: calc(30.5%);
+    flex-direction: column;
+    bottom: calc(4%);
+}
+.mobile .theme-style footer {
+    background: url(https://cdn.gambaraset.com/bandartoto/bot.webp) no-repeat center top;
+    height: 4.5rem;
+    background-size: cover;
+}
+.mobile .champagne-gold-theme footer .nav-item h3 {
+    color: #fed804 !important;
+}
+.champagne-gold-theme .loginForm {
+    background: #000000 !important;
+}
+.champagne-gold-theme .navigator-bar {
+    background: #000 !important;
+}
+.champagne-gold-theme .service-navi-bar,
+body.champagne-gold-theme .service-navi-bar {
+  background: #000 !important;
+}
+.champagne-gold-theme .more-menu-box {
+    background: #181818 !important;
+}
+.theme-style .more-menu-box {
+    width: 70% !important;
+}
+body.champagne-gold-theme .more-menu-bg,
+.champagne-gold-theme .more-menu-bg {
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 10020 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  height: 100dvh !important;
+  background: rgba(0, 0, 0, 0.68) !important;
+  backdrop-filter: blur(3px) !important;
+  -webkit-backdrop-filter: blur(3px) !important;
+}
+body.champagne-gold-theme .more-menu-bg .more-menu-box,
+.champagne-gold-theme .more-menu-bg .more-menu-box,
+body.champagne-gold-theme.theme-style .more-menu-box {
+  left: 0 !important;
+  top: 0 !important;
+  z-index: 10021 !important;
+  width: 78% !important;
+  width: min(78%, 380px) !important;
+  max-width: 380px !important;
+  height: 100vh !important;
+  height: 100dvh !important;
+  max-height: 100vh !important;
+  max-height: 100dvh !important;
+  padding: 10px 10px calc(24px + env(safe-area-inset-bottom, 0px)) !important;
+  box-sizing: border-box !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  overscroll-behavior: contain !important;
+  transform: translateZ(0) !important;
+  background:
+    linear-gradient(180deg, rgba(25, 25, 25, 0.98), rgba(2, 2, 2, 0.98)) !important;
+  border-right: 1px solid rgba(254, 216, 4, 0.34) !important;
+  box-shadow:
+    8px 0 24px rgba(0, 0, 0, 0.62),
+    inset -1px 0 0 rgba(255, 255, 255, 0.06) !important;
+}
+body.champagne-gold-theme .more-menu-box ul,
+.champagne-gold-theme .more-menu-box ul {
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 0 calc(28px + env(safe-area-inset-bottom, 0px)) !important;
+  list-style: none !important;
+}
+body.champagne-gold-theme .more-menu-box li,
+.champagne-gold-theme .more-menu-box li {
+  position: relative !important;
+  flex-shrink: 0 !important;
+  min-height: 46px !important;
+  margin: 8px 0 !important;
+  overflow: hidden !important;
+  display: flex !important;
+  align-items: center !important;
+  box-sizing: border-box !important;
+  background-color: rgba(255, 255, 255, 0.055) !important;
+  background-repeat: no-repeat !important;
+  background-position: 14px center !important;
+  background-size: 28px 28px !important;
+  border: 1px solid rgba(254, 216, 4, 0.16) !important;
+  border-radius: 10px 0 10px 0 !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.07),
+    0 4px 10px rgba(0, 0, 0, 0.28) !important;
+}
+body.champagne-gold-theme .more-menu-box li::after,
+.champagne-gold-theme .more-menu-box li::after {
+  content: "" !important;
+  position: absolute !important;
+  top: -70% !important;
+  left: -45% !important;
+  width: 28% !important;
+  height: 230% !important;
+  background:
+    linear-gradient(90deg, transparent, rgba(254, 216, 4, 0.26), transparent) !important;
+  transform: skewX(-24deg) !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+body.champagne-gold-theme .more-menu-box li:active,
+.champagne-gold-theme .more-menu-box li:active {
+  transform: translateY(1px) !important;
+}
+body.champagne-gold-theme .more-menu-box li:hover,
+.champagne-gold-theme .more-menu-box li:hover {
+  background-color: rgba(254, 216, 4, 0.12) !important;
+  border-color: rgba(254, 216, 4, 0.42) !important;
+}
+body.champagne-gold-theme .more-menu-box li:hover::after,
+.champagne-gold-theme .more-menu-box li:hover::after {
+  opacity: 1 !important;
+  animation: onewl-menu-shine 1.4s ease-out !important;
+}
+body.champagne-gold-theme .more-menu-box li a,
+.champagne-gold-theme .more-menu-box li a {
+  position: relative !important;
+  z-index: 1 !important;
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  min-height: 46px !important;
+  margin: 0 !important;
+  padding: 8px 12px 8px 54px !important;
+  box-sizing: border-box !important;
+  color: #f5f5f5 !important;
+  -webkit-text-fill-color: #f5f5f5 !important;
+  font-size: 14px !important;
+  font-weight: 800 !important;
+  line-height: 1.22 !important;
+  text-decoration: none !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9) !important;
+  white-space: normal !important;
+  word-break: break-word !important;
+}
+body.champagne-gold-theme .more-menu-box li.customMenu a,
+.champagne-gold-theme .more-menu-box li.customMenu a {
+  color: #fed804 !important;
+  -webkit-text-fill-color: #fed804 !important;
+}
+body.champagne-gold-theme .more-menu-box .menu-close,
+.champagne-gold-theme .more-menu-box .menu-close {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 4 !important;
+  justify-content: flex-end !important;
+  min-height: 48px !important;
+  margin: 0 0 10px !important;
+  background: rgba(0, 0, 0, 0.62) !important;
+  background-image: none !important;
+  border-color: rgba(254, 216, 4, 0.26) !important;
+  border-radius: 0 0 12px 12px !important;
+}
+body.champagne-gold-theme .more-menu-box .menu-close a,
+.champagne-gold-theme .more-menu-box .menu-close a {
+  position: relative !important;
+  width: 42px !important;
+  min-height: 42px !important;
+  margin: 0 4px 0 auto !important;
+  padding: 0 !important;
+  background: transparent !important;
+  filter: none !important;
+}
+body.champagne-gold-theme .more-menu-box .menu-close a::before,
+body.champagne-gold-theme .more-menu-box .menu-close a::after,
+.champagne-gold-theme .more-menu-box .menu-close a::before,
+.champagne-gold-theme .more-menu-box .menu-close a::after {
+  content: "" !important;
+  position: absolute !important;
+  left: 10px !important;
+  top: 20px !important;
+  width: 22px !important;
+  height: 2px !important;
+  background: #fed804 !important;
+  border-radius: 999px !important;
+  box-shadow: 0 0 8px rgba(254, 216, 4, 0.48) !important;
+}
+body.champagne-gold-theme .more-menu-box .menu-close a::before,
+.champagne-gold-theme .more-menu-box .menu-close a::before {
+  transform: rotate(45deg) !important;
+}
+body.champagne-gold-theme .more-menu-box .menu-close a::after,
+.champagne-gold-theme .more-menu-box .menu-close a::after {
+  transform: rotate(-45deg) !important;
+}
+body.champagne-gold-theme .more-menu-box .logoutIcon,
+.champagne-gold-theme .more-menu-box .logoutIcon {
+  margin-top: 14px !important;
+  justify-content: flex-start !important;
+  height: auto !important;
+  min-height: 46px !important;
+  padding: 0 !important;
+  background-position: 14px center !important;
+  background-size: 28px 28px !important;
+  background-color: rgba(152, 23, 23, 0.68) !important;
+  border-color: rgba(255, 88, 88, 0.42) !important;
+  text-align: left !important;
+}
+body.champagne-gold-theme .more-menu-box .logoutIcon a,
+.champagne-gold-theme .more-menu-box .logoutIcon a,
+body.champagne-gold-theme .more-menu-box .logoutIcon a.jq-logout-btn,
+.champagne-gold-theme .more-menu-box .logoutIcon a.jq-logout-btn {
+  justify-content: flex-start !important;
+  width: 100% !important;
+  min-height: 46px !important;
+  margin: 0 !important;
+  padding: 8px 12px 8px 54px !important;
+  background: transparent !important;
+  color: #ffffff !important;
+  -webkit-text-fill-color: #ffffff !important;
+  text-align: left !important;
+}
+@keyframes onewl-menu-shine {
+  0% {
+    left: -45%;
+  }
+  100% {
+    left: 120%;
+  }
+}
+@media (min-width: 768px) {
+  body.champagne-gold-theme .more-menu-bg .more-menu-box,
+  .champagne-gold-theme .more-menu-bg .more-menu-box,
+  body.champagne-gold-theme.theme-style .more-menu-box {
+    width: 360px !important;
+  }
+}
+.champagne-gold-theme .register-step .btn {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #fff349, #fed804) !important;
+  color: #000 !important;
+  border: 1px solid #fff6a8 !important;
+  border-radius: 12px 0 12px 0 !important;
+  box-shadow:
+    0 0 10px rgba(254, 216, 4, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.75),
+    inset 0 -2px 0 rgba(140, 104, 0, 0.35) !important;
+}
+.champagne-gold-theme .register-step .btn::before {
+  content: "";
+  position: absolute;
+  top: -80%;
+  left: -45%;
+  width: 35%;
+  height: 260%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.85),
+    transparent
+  );
+  transform: skewX(-25deg);
+  animation: register-btn-shine 2.4s linear infinite;
+  pointer-events: none;
+}
+@keyframes register-btn-shine {
+  0% {
+    left: -45%;
+  }
+  100% {
+    left: 120%;
+  }
+}
+.game-item[data-nodename="CRYPTO FUTURES"] img[alt="CRYPTO FUTURES"] {
+  content: url("https://cdn.ope8k8.com/CRYPTO%20FUTURES.webp") !important;
+}
+.game-item[data-nodename="SBO"] img[alt="SBO"] {
+  content: url("https://cdn.ope8k8.com/SBOBET.webp") !important;
+}
+.game-item[data-nodename="SABA"] img[alt="SABA"] {
+  content: url("https://cdn.ope8k8.com/SABA.webp") !important;
+}
+.game-item[data-nodename="PRAGMATIC PLAY SLOT"] img[alt="PRAGMATIC PLAY SLOT"] {
+  content: url("https://cdn.ope8k8.com/pragmatic%20(1).webp") !important;
+}
+.game-item[data-nodename="PG"] img[alt="PG"] {
+  content: url("https://cdn.ope8k8.com/pg.webp") !important;
+}
+.game-item[data-nodename="PNG SLOT"] img[alt="PNG SLOT"] {
+  content: url("https://cdn.ope8k8.com/png.webp") !important;
+}
+.game-item[data-nodename="WOWGAMING"] img[alt="WOWGAMING"] {
+  content: url("https://cdn.ope8k8.com/wow%20(1).webp") !important;
+}
+.game-item[data-nodename="GGSOFT"] img[alt="GGSOFT"] {
+  content: url("https://cdn.ope8k8.com/gg.webp") !important;
+}
+.game-item[data-nodename="PLAYSTAR"] img[alt="PLAYSTAR"] {
+  content: url("https://cdn.ope8k8.com/playstar.webp") !important;
+}
+.game-item[data-nodename="NOLIMITCITY"] img[alt="NOLIMITCITY"] {
+  content: url("https://cdn.ope8k8.com/nolimit.webp") !important;
+}
+.game-item[data-nodename="JILI SLOT"] img[alt="JILI SLOT"] {
+  content: url("https://cdn.ope8k8.com/JILI.webp") !important;
+}
+.game-item[data-nodename="ASK SLOT"] img[alt="ASK SLOT"] {
+  content: url("https://cdn.ope8k8.com/ask.webp") !important;
+}
+.game-item[data-nodename="HABANERO"] img[alt="HABANERO"] {
+  content: url("https://cdn.ope8k8.com/habanero.webp") !important;
+}
+.game-item[data-nodename="HACKSAW"] img[alt="HACKSAW"] {
+  content: url("https://cdn.ope8k8.com/hacksaw.webp") !important;
+}
+.game-item[data-nodename="5G"] img[alt="5G"] {
+  content: url("https://cdn.ope8k8.com/5g.webp") !important;
+}
+.game-item[data-nodename="JOKER SLOT"] img[alt="JOKER SLOT"] {
+  content: url("https://cdn.ope8k8.com/joker.webp") !important;
+}
+.game-item[data-nodename="RED TIGER"] img[alt="RED TIGER"] {
+  content: url("https://cdn.ope8k8.com/redtiger.webp") !important;
+}
+.game-item[data-nodename="NETENT"] img[alt="NETENT"] {
+  content: url("https://cdn.ope8k8.com/netent.webp") !important;
+}
+.game-item[data-nodename="BIGTIMEGAMING"] img[alt="BIGTIMEGAMING"] {
+  content: url("https://cdn.ope8k8.com/bigtime.webp") !important;
+}
+.game-item[data-nodename="PLAYTECH SLOT"] img[alt="PLAYTECH SLOT"] {
+  content: url("https://cdn.ope8k8.com/playtech.webp") !important;
+}
+.game-item[data-nodename="PNG LIVE"] img[alt="PNG LIVE"] {
+  content: url("https://cdn.ope8k8.com/pnglive.webp") !important;
+}
+.game-item[data-nodename="PRAGMATIC PLAY"] img[alt="PRAGMATIC PLAY"] {
+  content: url("https://cdn.ope8k8.com/pragm.webp") !important;
+}
+.game-item[data-nodename="EVOLUTION"] img[alt="EVOLUTION"] {
+  content: url("https://cdn.ope8k8.com/evo.webp") !important;
+}
+.game-item[data-nodename="SEXYGAMING"] img[alt="SEXYGAMING"] {
+  content: url("https://cdn.ope8k8.com/sexy.webp") !important;
+}
+.game-item[data-nodename="EMPIRE GAMING"] img[alt="EMPIRE GAMING"] {
+  content: url("https://cdn.ope8k8.com/empire.webp") !important;
+}
+.game-item[data-nodename="TGION"] img[alt="TGION"] {
+  content: url("https://cdn.ope8k8.com/ion.webp") !important;
+}
+.game-item[data-nodename="SA GAMING"] img[alt="SA GAMING"] {
+  content: url("https://cdn.ope8k8.com/sagaming.webp") !important;
+}
+.game-item[data-nodename="BG"] img[alt="BG"] {
+  content: url("https://cdn.ope8k8.com/biggaming.webp") !important;
+}
+.game-item[data-nodename="AP"] img[alt="AP"] {
+  content: url("https://cdn.ope8k8.com/APGAMING.webp") !important;
+}
+.game-item[data-nodename="TF"] img[alt="TF"] {
+  content: url("https://cdn.ope8k8.com/TF%20GAMING.webp") !important;
+}
+.game-item[data-nodename="JILI FISHING"] img[alt="JILI FISHING"] {
+  content: url("https://cdn.ope8k8.com/JILI%20FISHING.webp") !important;
+}
+.game-item[data-nodename="ASK FISHING"] img[alt="ASK FISHING"] {
+  content: url("https://cdn.ope8k8.com/ASK%20FISHING.webp") !important;
+}
+.game-item[data-nodename="Plinko Circus"] img[alt="Plinko Circus"] {
+  content: url("https://cdn.bdr8k8.com/games/plinkocircus.webp") !important;
+}
+.game-item[data-nodename="Keno Matrix"] img[alt="Keno Matrix"] {
+  content: url("https://cdn.bdr8k8.com/games/kenomatrix.webp") !important;
+}
+.game-item[data-nodename="BlingBangBall"] img[alt="BlingBangBall"] {
+  content: url("https://cdn.ope8k8.com/BLINGBALL.webp") !important;
+}
+.game-item[data-nodename="Domino-Auto"] img[alt="Domino-Auto"] {
+  content: url("https://cdn.ope8k8.com/DOMINO%20AUTO.webp") !important;
+}
+.game-item[data-nodename="Texas-Auto"] img[alt="Texas-Auto"] {
+  content: url("https://cdn.ope8k8.com/TEXAS%20AUTO.webp") !important;
+}
+.game-item[data-nodename="TIGER-Auto"] img[alt="TIGER-Auto"] {
+  content: url("https://cdn.ope8k8.com/TIGER%20AUTO.webp") !important;
+}
+.game-item[data-nodename="ROULETTE-AUTO"] img[alt="ROULETTE-AUTO"] {
+  content: url("https://cdn.ope8k8.com/ROULETTE%20AUTO.webp") !important;
+}
+.game-item[data-nodename="Dice-Auto"] img[alt="Dice-Auto"] {
+  content: url("https://cdn.ope8k8.com/DICE%20AUTO.webp") !important;
+}
+.game-item[data-nodename="Baccarat-Auto"] img[alt="Baccarat-Auto"] {
+  content: url("https://cdn.bdr8k8.com/games/BACCARAT%20AUTO.webp") !important;
+}
+.game-item[data-nodename="Domino 2"] img[alt="Domino 2"] {
+  content: url("https://cdn.ope8k8.com/DOMINO%202.webp") !important;
+}
+
+.champagne-gold-theme .game-list .game-menu p {
+    background-image: url("https://cdn.bdr8k8.com/gamesbar/bdrpolosan.webp") !important;
+}
+.champagne-gold-theme .game-list .game-menu .game-menu-current {
+  margin-top: 0 !important;
+}
+.champagne-gold-theme .game-list .game-menu .game-menu-current b {
+  margin-top: 0 !important;
+}
+.register-step ul {
+    border-radius: 10px;
+    border-top: 2px solid #ffe92f;
+    border-bottom: 2px solid #ffe92f;
+}
+.mobile .theme-style footer .nav-item:nth-of-type(3)::before {
+    border: #fed805 .3rem solid !important;
+}
+#onewl-insert-wrapper {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 14px !important;
+  width: min(980px, calc(100% - 80px)) !important;
+  margin: 14px auto !important;
+  padding: 0 !important;
+}
+#onewl-insert-wrapper .onewl-cta-button {
+  position: relative !important;
+  isolation: isolate !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 48px !important;
+  padding: 0 20px !important;
+  border: 0 !important;
+  border-radius: 999px !important;
+  background: transparent !important;
+  color: #ffffff !important;
+  font-size: 20px !important;
+  font-weight: 800 !important;
+  line-height: 1 !important;
+  text-align: center !important;
+  text-transform: uppercase !important;
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  cursor: pointer !important;
+  overflow: hidden !important;
+  box-shadow:
+    0 10px 22px rgba(0, 0, 0, 0.35),
+    inset 0 0 0 2px rgba(254, 216, 4, 0.32) !important;
+}
+#onewl-insert-wrapper .onewl-cta-button:nth-child(3) {
+  grid-column: auto !important;
+}
+#onewl-insert-wrapper .onewl-cta-button::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: -120% !important;
+  z-index: 0 !important;
+  background:
+    conic-gradient(
+      from 0deg,
+      transparent 0deg,
+      rgba(254, 216, 4, 0.12) 80deg,
+      #fed804 118deg,
+      #fff6a6 132deg,
+      #fed804 146deg,
+      rgba(254, 216, 4, 0.18) 180deg,
+      transparent 260deg,
+      transparent 360deg
+    ) !important;
+  animation: onewl-gold-border-spin 3.2s linear infinite !important;
+}
+#onewl-insert-wrapper .onewl-cta-button::after {
+  content: "" !important;
+  position: absolute !important;
+  inset: 5px !important;
+  z-index: 1 !important;
+  border-radius: inherit !important;
+  background:
+    linear-gradient(180deg, rgba(45, 45, 45, 0.98), rgba(16, 16, 16, 0.98)) !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.08),
+    inset 0 -12px 26px rgba(0, 0, 0, 0.34) !important;
+}
+#onewl-insert-wrapper .onewl-cta-button span {
+  position: relative !important;
+  z-index: 2 !important;
+  color: #ffffff !important;
+  text-shadow:
+    0 1px 0 rgba(0, 0, 0, 0.8),
+    0 0 12px rgba(254, 216, 4, 0.28) !important;
+}
+#onewl-insert-wrapper .onewl-cta-button:hover {
+  transform: translateY(-1px) !important;
+  box-shadow:
+    0 12px 26px rgba(0, 0, 0, 0.42),
+    0 0 18px rgba(254, 216, 4, 0.3),
+    inset 0 0 0 2px rgba(254, 216, 4, 0.48) !important;
+}
+@keyframes onewl-gold-border-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (max-width: 560px) {
+  #onewl-insert-wrapper {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 7px 8px !important;
+    width: calc(100% - 16px) !important;
+    margin: 8px auto !important;
+  }
+  #onewl-insert-wrapper .onewl-cta-button:nth-child(3) {
+    grid-column: 1 / -1 !important;
+  }
+  #onewl-insert-wrapper .onewl-cta-button {
+    min-height: 34px !important;
+    padding: 0 10px !important;
+    font-size: 12px !important;
+    box-shadow:
+      0 4px 10px rgba(0, 0, 0, 0.32),
+      inset 0 0 0 1px rgba(254, 216, 4, 0.34) !important;
+  }
+  #onewl-insert-wrapper .onewl-cta-button::after {
+    inset: 3px !important;
+  }
+}
+.pc .champagne-gold-theme #footer {
+    background: #00000080 !important;
+    border-top: 1px solid #fed804;
+}
+#chat-widget-container {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  position: fixed !important;
+  right: 12px !important;
+  bottom: 92px !important;
+  z-index: 2147483647 !important;
+  pointer-events: auto !important;
+}
+#chat-widget-container #chat-widget-minimized {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
+.livechat_button.bottom-button {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  position: fixed !important;
+  right: 12px !important;
+  bottom: 92px !important;
+  z-index: 2147483647 !important;
+}
+.mobile #chat-widget-container,
+.mobile .livechat_button.bottom-button {
+  right: 8px !important;
+  bottom: 5.4rem !important;
+}
+.onewl-deposit-wrapper {
+  position: relative !important;
+  margin: 0 auto 1rem !important;
+  padding: 14px 14px 18px !important;
+  box-sizing: border-box !important;
+  background: rgba(0, 0, 0, 0.58) !important;
+  border: 1px solid rgba(254, 216, 4, 0.28) !important;
+  border-radius: 0 0 16px 16px !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.08),
+    0 10px 28px rgba(0, 0, 0, 0.34) !important;
+  backdrop-filter: blur(3px) !important;
+  -webkit-backdrop-filter: blur(3px) !important;
+}
+.onewl-deposit-wrapper > div:first-child,
+.onewl-deposit-wrapper .selectBank,
+.onewl-deposit-wrapper .bank-list {
+  position: relative !important;
+  z-index: 1 !important;
+}
+.onewl-deposit-wrapper > div:first-child {
+  margin: 0 0 14px !important;
+  padding: 12px 14px !important;
+  background: rgba(0, 0, 0, 0.42) !important;
+  border: 1px solid rgba(254, 216, 4, 0.16) !important;
+  border-radius: 12px !important;
+}
+.onewl-deposit-wrapper dt,
+.onewl-deposit-wrapper dd,
+.onewl-deposit-wrapper label,
+.onewl-deposit-wrapper .bank-item b,
+.onewl-deposit-wrapper .bank-item u {
+  color: #ffffff !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.85) !important;
+}
+.onewl-deposit-wrapper .bank-tabs {
+  gap: 8px !important;
+}
+.onewl-deposit-wrapper .bank-tab {
+  background: rgba(245, 245, 245, 0.92) !important;
+  border: 1px solid rgba(254, 216, 4, 0.18) !important;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.28) !important;
+}
+.onewl-deposit-wrapper .bank-tab.selected {
+  background: linear-gradient(to bottom, #ff7a18, #f04c00) !important;
+  border-color: rgba(254, 216, 4, 0.75) !important;
+}
+.onewl-deposit-wrapper .bank-list {
+  margin-top: 14px !important;
+  padding: 10px 14px !important;
+  background: rgba(0, 0, 0, 0.42) !important;
+  border: 1px solid rgba(254, 216, 4, 0.16) !important;
+  border-radius: 12px !important;
+}
+.onewl-deposit-wrapper .bank-item {
+  border-bottom-color: rgba(255, 255, 255, 0.22) !important;
+}
+.onewl-deposit-wrapper .bank-item i {
+  color: #48f28d !important;
+  text-shadow: 0 0 8px rgba(72, 242, 141, 0.38) !important;
+}
+.onewl-deposit-wrapper .default-amount,
+.onewl-deposit-wrapper .bank-status-list,
+.onewl-deposit-bottom-panel,
+#deposit .container .onewl-deposit-panel,
+#deposit .container .default-amount,
+#deposit .container .bank-status-list,
+body.champagne-gold-theme .default-amount,
+body.champagne-gold-theme .bank-status-list {
+  position: relative !important;
+  z-index: 1 !important;
+  margin: 14px 0 0 !important;
+  padding: 12px 14px !important;
+  box-sizing: border-box !important;
+  background: rgba(0, 0, 0, 0.46) !important;
+  border: 1px solid rgba(254, 216, 4, 0.18) !important;
+  border-radius: 12px !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.06),
+    0 6px 16px rgba(0, 0, 0, 0.28) !important;
+}
+.onewl-deposit-bottom-panel .default-amount,
+.onewl-deposit-bottom-panel .bank-status-list,
+#deposit .container .onewl-deposit-bottom-panel .default-amount,
+#deposit .container .onewl-deposit-bottom-panel .bank-status-list {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+.onewl-deposit-wrapper .default-amount {
+  list-style: none !important;
+}
+.onewl-deposit-wrapper .default-amount .amount,
+.onewl-deposit-bottom-panel .default-amount .amount,
+#deposit .container .default-amount .amount,
+body.champagne-gold-theme .default-amount .amount {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  margin: 0 !important;
+}
+.onewl-deposit-wrapper .default-amount label,
+.onewl-deposit-wrapper .default-amount i,
+.onewl-deposit-wrapper .bank-status-list,
+.onewl-deposit-wrapper .bank-status-list dt,
+.onewl-deposit-bottom-panel label,
+.onewl-deposit-bottom-panel i,
+.onewl-deposit-bottom-panel dt,
+#deposit .container .default-amount label,
+#deposit .container .default-amount i,
+#deposit .container .bank-status-list,
+#deposit .container .bank-status-list dt {
+  color: #ffffff !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.85) !important;
+}
+.onewl-deposit-wrapper .default-amount .deposit-money,
+.onewl-deposit-bottom-panel .default-amount .deposit-money,
+#deposit .container .default-amount .deposit-money,
+body.champagne-gold-theme .default-amount .deposit-money {
+  flex: 1 !important;
+  min-width: 0 !important;
+  height: 42px !important;
+  padding: 0 12px !important;
+  box-sizing: border-box !important;
+  background: rgba(255, 255, 255, 0.94) !important;
+  border: 1px solid rgba(254, 216, 4, 0.28) !important;
+  border-radius: 8px !important;
+  color: #111111 !important;
+  font-weight: 700 !important;
+}
+.onewl-deposit-bottom-panel .deposit-money {
+  background: rgba(255, 255, 255, 0.94) !important;
+  border: 1px solid rgba(254, 216, 4, 0.28) !important;
+  border-radius: 8px !important;
+  color: #111111 !important;
+  font-weight: 700 !important;
+}
+.onewl-deposit-wrapper .default-amount .deposit-money::placeholder,
+.onewl-deposit-bottom-panel .default-amount .deposit-money::placeholder,
+#deposit .container .default-amount .deposit-money::placeholder,
+body.champagne-gold-theme .default-amount .deposit-money::placeholder {
+  color: rgba(17, 17, 17, 0.55) !important;
+}
+body.champagne-gold-theme #deposit .default-amount .amount,
+body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .amount {
+  --deposit-label-width: 108px;
+  position: relative !important;
+  display: grid !important;
+  grid-template-columns: var(--deposit-label-width) minmax(0, 1fr) !important;
+  gap: 10px !important;
+  align-items: center !important;
+  min-height: 58px !important;
+  padding: 8px 10px !important;
+  box-sizing: border-box !important;
+}
+body.champagne-gold-theme #deposit .default-amount .amount label,
+body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .amount label {
+  grid-column: 1 !important;
+  min-width: 0 !important;
+  width: auto !important;
+  color: #ffffff !important;
+  font-size: 17px !important;
+  font-weight: 800 !important;
+  line-height: 1.08 !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.85) !important;
+}
+body.champagne-gold-theme #deposit .default-amount .deposit-money,
+body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .deposit-money {
+  grid-column: 2 !important;
+  grid-row: 1 !important;
+  display: block !important;
+  width: 100% !important;
+  height: 42px !important;
+  min-height: 42px !important;
+  margin: 0 !important;
+  padding: 0 12px 0 92px !important;
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  font-size: 16px !important;
+  line-height: normal !important;
+}
+body.champagne-gold-theme #deposit .default-amount .deposit-money::placeholder,
+body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .deposit-money::placeholder {
+  font-size: 16px !important;
+  line-height: normal !important;
+  text-align: left !important;
+}
+body.champagne-gold-theme #deposit .default-amount .amount > i,
+body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .amount > i {
+  position: absolute !important;
+  left: calc(var(--deposit-label-width) + 22px) !important;
+  top: 50% !important;
+  z-index: 2 !important;
+  width: 68px !important;
+  min-width: 68px !important;
+  max-width: 68px !important;
+  height: 28px !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 0 !important;
+  transform: translateY(-50%) !important;
+  border: 1px solid rgba(111, 74, 0, 0.65) !important;
+  border-radius: 999px !important;
+  background:
+    linear-gradient(180deg, #fff36a 0%, #d29a16 54%, #8b5a06 100%) !important;
+  color: #ffffff !important;
+  font-size: 17px !important;
+  font-weight: 900 !important;
+  line-height: 1 !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85) !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.65),
+    0 2px 5px rgba(0, 0, 0, 0.32) !important;
+  pointer-events: none !important;
+}
+.onewl-deposit-wrapper .deposit-banklist {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+}
+.onewl-deposit-bottom-panel .deposit-banklist,
+#deposit .container .onewl-deposit-bottom-panel .deposit-banklist,
+#deposit .container .bank-status-list .deposit-banklist,
+body.champagne-gold-theme .bank-status-list .deposit-banklist {
+  margin: 14px 0 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  min-height: unset !important;
+}
+.onewl-deposit-wrapper .deposit-banklist dt {
+  margin: 0 0 10px !important;
+}
+.onewl-deposit-wrapper .deposit-banklist dd.bank {
+  background: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.onewl-deposit-bottom-panel .deposit-banklist dd.bank,
+#deposit .container .onewl-deposit-bottom-panel .deposit-banklist dd.bank,
+#deposit .container .bank-status-list .deposit-banklist dd.bank,
+body.champagne-gold-theme .bank-status-list .deposit-banklist dd.bank {
+  background: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.onewl-deposit-wrapper .submit.default-submit,
+.onewl-deposit-bottom-panel .submit.default-submit {
+  position: relative !important;
+  isolation: isolate !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 48px !important;
+  width: min(360px, 100%) !important;
+  margin: 18px auto 0 !important;
+  padding: 0 24px !important;
+  overflow: hidden !important;
+  border: 1px solid rgba(254, 216, 4, 0.78) !important;
+  border-radius: 12px 0 12px 0 !important;
+  background:
+    linear-gradient(180deg, rgba(42, 42, 42, 0.98), rgba(8, 8, 8, 0.98)) !important;
+  color: #fed804 !important;
+  font-size: 18px !important;
+  font-weight: 900 !important;
+  line-height: 1 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0 !important;
+  text-shadow: 0 0 10px rgba(254, 216, 4, 0.38) !important;
+  box-shadow:
+    0 8px 18px rgba(0, 0, 0, 0.34),
+    0 0 14px rgba(254, 216, 4, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.14),
+    inset 0 -2px 0 rgba(103, 74, 0, 0.55) !important;
+}
+.onewl-deposit-wrapper .submit.default-submit::before,
+.onewl-deposit-bottom-panel .submit.default-submit::before {
+  content: "" !important;
+  position: absolute !important;
+  top: -70% !important;
+  left: -40% !important;
+  z-index: -1 !important;
+  width: 32% !important;
+  height: 240% !important;
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 246, 166, 0.86),
+      transparent
+    ) !important;
+  transform: skewX(-24deg) !important;
+  animation: onewl-submit-shine 2.6s linear infinite !important;
+}
+.onewl-deposit-wrapper .submit.default-submit:active,
+.onewl-deposit-bottom-panel .submit.default-submit:active {
+  transform: translateY(1px) !important;
+  box-shadow:
+    0 4px 10px rgba(0, 0, 0, 0.36),
+    inset 0 2px 8px rgba(0, 0, 0, 0.42) !important;
+}
+@keyframes onewl-submit-shine {
+  0% {
+    left: -45%;
+  }
+  100% {
+    left: 120%;
+  }
+}
+@media (max-width: 560px) {
+  .onewl-deposit-wrapper {
+    padding: 10px 10px 14px !important;
+    border-radius: 0 0 12px 12px !important;
+  }
+  .onewl-deposit-wrapper > div:first-child {
+    padding: 10px !important;
+    margin-bottom: 10px !important;
+  }
+  .onewl-deposit-wrapper .bank-list {
+    padding: 8px 10px !important;
+    margin-top: 10px !important;
+  }
+  .onewl-deposit-wrapper .default-amount,
+  .onewl-deposit-wrapper .bank-status-list,
+  .onewl-deposit-bottom-panel,
+  #deposit .container .onewl-deposit-panel {
+    margin-top: 10px !important;
+    padding: 10px !important;
+  }
+  .onewl-deposit-wrapper .default-amount .amount,
+  .onewl-deposit-bottom-panel .default-amount .amount {
+    gap: 8px !important;
+  }
+  .onewl-deposit-wrapper .default-amount .deposit-money,
+  .onewl-deposit-bottom-panel .default-amount .deposit-money {
+    height: 36px !important;
+    padding: 0 10px !important;
+  }
+  body.champagne-gold-theme #deposit .default-amount .amount,
+  body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .amount {
+    --deposit-label-width: 82px;
+    gap: 8px !important;
+    min-height: 54px !important;
+    padding: 7px 8px !important;
+  }
+  body.champagne-gold-theme #deposit .default-amount .amount label,
+  body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .amount label {
+    font-size: 14px !important;
+    line-height: 1.08 !important;
+  }
+  body.champagne-gold-theme #deposit .default-amount .deposit-money,
+  body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .deposit-money {
+    height: 38px !important;
+    min-height: 38px !important;
+    padding: 0 9px 0 70px !important;
+    font-size: 12px !important;
+    line-height: normal !important;
+  }
+  body.champagne-gold-theme #deposit .default-amount .deposit-money::placeholder,
+  body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .deposit-money::placeholder {
+    font-size: 12px !important;
+    line-height: normal !important;
+  }
+  body.champagne-gold-theme #deposit .default-amount .amount > i,
+  body.champagne-gold-theme .onewl-deposit-bottom-panel .default-amount .amount > i {
+    left: calc(var(--deposit-label-width) + 18px) !important;
+    width: 50px !important;
+    min-width: 50px !important;
+    max-width: 50px !important;
+    height: 24px !important;
+    padding: 0 !important;
+    font-size: 13px !important;
+  }
+  .onewl-deposit-wrapper .submit.default-submit,
+  .onewl-deposit-bottom-panel .submit.default-submit {
+    min-height: 40px !important;
+    margin-top: 12px !important;
+    font-size: 15px !important;
+  }
+}
+body.champagne-gold-theme #withdrawal {
+  padding-bottom: 7rem !important;
+  box-sizing: border-box !important;
+}
+body.champagne-gold-theme #withdrawal .container {
+  margin: 10px !important;
+  padding: 12px !important;
+  box-sizing: border-box !important;
+  background: rgba(0, 0, 0, 0.58) !important;
+  border: 1px solid rgba(254, 216, 4, 0.22) !important;
+  border-radius: 14px !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.06),
+    0 10px 24px rgba(0, 0, 0, 0.36) !important;
+  backdrop-filter: blur(3px) !important;
+  -webkit-backdrop-filter: blur(3px) !important;
+}
+body.champagne-gold-theme #withdrawal .payment-list,
+body.champagne-gold-theme #withdrawal .container > ul,
+body.champagne-gold-theme #withdrawal .bank-status-list {
+  margin: 0 0 10px !important;
+  padding: 10px !important;
+  box-sizing: border-box !important;
+  background: rgba(0, 0, 0, 0.42) !important;
+  border: 1px solid rgba(254, 216, 4, 0.16) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.28) !important;
+}
+body.champagne-gold-theme #withdrawal .payment-item,
+body.champagne-gold-theme #withdrawal .withdrawableBalance,
+body.champagne-gold-theme #withdrawal .withdrawableAmount {
+  background: rgba(0, 0, 0, 0.34) !important;
+  border: 1px solid rgba(254, 216, 4, 0.14) !important;
+  border-radius: 10px !important;
+  box-sizing: border-box !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawableBalance,
+body.champagne-gold-theme #withdrawal .withdrawableAmount {
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawableAmount {
+  display: flex !important;
+  align-items: center !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawableBalance label,
+body.champagne-gold-theme #withdrawal .withdrawableAmount label {
+  font-size: 13px !important;
+  line-height: 1.15 !important;
+}
+body.champagne-gold-theme #withdrawal .container label,
+body.champagne-gold-theme #withdrawal .container h3,
+body.champagne-gold-theme #withdrawal .container p,
+body.champagne-gold-theme #withdrawal .container b,
+body.champagne-gold-theme #withdrawal .container u,
+body.champagne-gold-theme #withdrawal .container i,
+body.champagne-gold-theme #withdrawal .bank-status-list,
+body.champagne-gold-theme #withdrawal .bank-status-list dt {
+  color: #ffffff !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.86) !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawableBalance p,
+body.champagne-gold-theme #withdrawal .withdrawableBalance p i,
+body.champagne-gold-theme #withdrawal .withdrawableBalance .all {
+  color: #fed804 !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawableBalance p,
+body.champagne-gold-theme #withdrawal .withdrawableBalance p i,
+body.champagne-gold-theme #withdrawal .withdrawableBalance .all,
+body.champagne-gold-theme #withdrawal .withdrawableAmount input,
+body.champagne-gold-theme #withdrawal .withdrawableAmount > i {
+  font-size: 13px !important;
+  line-height: 1.15 !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawableAmount > i {
+  position: static !important;
+  left: auto !important;
+  order: 2 !important;
+  margin-left: 8px !important;
+  margin-right: 6px !important;
+  white-space: nowrap !important;
+}
+body.champagne-gold-theme #withdrawal #operateAmount {
+  order: 3 !important;
+  display: block !important;
+  background: rgba(255, 255, 255, 0.94) !important;
+  border: 1px solid rgba(254, 216, 4, 0.28) !important;
+  border-radius: 8px !important;
+  color: #111111 !important;
+  font-weight: 700 !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  line-height: normal !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawableAmount label {
+  order: 1 !important;
+}
+body.champagne-gold-theme #withdrawal #operateAmount::placeholder {
+  color: rgba(17, 17, 17, 0.55) !important;
+  line-height: normal !important;
+}
+.pc body.champagne-gold-theme #withdrawal .withdrawableAmount {
+  min-height: 62px !important;
+  padding: 10px 18px !important;
+  gap: 12px !important;
+}
+.pc body.champagne-gold-theme #withdrawal .withdrawableAmount label {
+  min-width: 220px !important;
+  font-size: 18px !important;
+  line-height: 1.2 !important;
+}
+.pc body.champagne-gold-theme #withdrawal .withdrawableAmount > i {
+  margin-left: 0 !important;
+  margin-right: 8px !important;
+  font-size: 18px !important;
+  line-height: 42px !important;
+}
+.pc body.champagne-gold-theme #withdrawal #operateAmount {
+  height: 42px !important;
+  min-height: 42px !important;
+  padding: 0 14px !important;
+  font-size: 18px !important;
+  line-height: normal !important;
+  border-radius: 10px !important;
+}
+.pc body.champagne-gold-theme #withdrawal #operateAmount::placeholder {
+  font-size: 18px !important;
+  line-height: normal !important;
+}
+body.champagne-gold-theme #withdrawal .submit {
+  position: relative !important;
+  isolation: isolate !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 46px !important;
+  width: min(360px, 100%) !important;
+  margin: 14px auto !important;
+  padding: 0 24px !important;
+  overflow: hidden !important;
+  border: 1px solid rgba(254, 216, 4, 0.78) !important;
+  border-radius: 12px 0 12px 0 !important;
+  background:
+    linear-gradient(180deg, rgba(42, 42, 42, 0.98), rgba(8, 8, 8, 0.98)) !important;
+  color: #fed804 !important;
+  font-size: 17px !important;
+  font-weight: 900 !important;
+  line-height: 1 !important;
+  text-transform: uppercase !important;
+  text-shadow: 0 0 10px rgba(254, 216, 4, 0.38) !important;
+  box-shadow:
+    0 8px 18px rgba(0, 0, 0, 0.34),
+    0 0 14px rgba(254, 216, 4, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.14),
+    inset 0 -2px 0 rgba(103, 74, 0, 0.55) !important;
+}
+body.champagne-gold-theme #withdrawal .submit::before {
+  content: "" !important;
+  position: absolute !important;
+  top: -70% !important;
+  left: -45% !important;
+  z-index: -1 !important;
+  width: 32% !important;
+  height: 240% !important;
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 246, 166, 0.86),
+      transparent
+    ) !important;
+  transform: skewX(-24deg) !important;
+  animation: onewl-submit-shine 2.6s linear infinite !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawal-banklist,
+body.champagne-gold-theme #withdrawal .bank-status-list .withdrawal-banklist {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  min-height: unset !important;
+}
+body.champagne-gold-theme #withdrawal .withdrawal-banklist dd.bank {
+  background: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+body.champagne-gold-theme .deposit-banklist dd.bank,
+body.champagne-gold-theme .withdrawal-banklist dd.bank,
+body.champagne-gold-theme .bank-status-list dd.bank {
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  overflow: visible !important;
+}
+body.champagne-gold-theme .deposit-banklist dd.bank img,
+body.champagne-gold-theme .withdrawal-banklist dd.bank img,
+body.champagne-gold-theme .bank-status-list dd.bank img {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+  background: transparent !important;
+  border-radius: 0 !important;
+}
+body.champagne-gold-theme .deposit-banklist,
+body.champagne-gold-theme .withdrawal-banklist {
+  gap: 8px !important;
+}
+@media (max-width: 560px) {
+  body.champagne-gold-theme #withdrawal .container {
+    margin: 8px !important;
+    padding: 10px !important;
+    border-radius: 12px !important;
+  }
+  body.champagne-gold-theme #withdrawal .payment-list,
+  body.champagne-gold-theme #withdrawal .container > ul,
+  body.champagne-gold-theme #withdrawal .bank-status-list {
+    margin-bottom: 8px !important;
+    padding: 9px !important;
+    border-radius: 10px !important;
+  }
+  body.champagne-gold-theme #withdrawal .submit {
+    min-height: 40px !important;
+    margin: 12px auto !important;
+    font-size: 15px !important;
+  }
+  body.champagne-gold-theme #withdrawal .withdrawableBalance label,
+  body.champagne-gold-theme #withdrawal .withdrawableAmount label,
+  body.champagne-gold-theme #withdrawal .withdrawableBalance p,
+  body.champagne-gold-theme #withdrawal .withdrawableBalance p i,
+  body.champagne-gold-theme #withdrawal .withdrawableBalance .all,
+  body.champagne-gold-theme #withdrawal .withdrawableAmount input,
+  body.champagne-gold-theme #withdrawal .withdrawableAmount > i {
+    font-size: 11px !important;
+    line-height: 1.1 !important;
+  }
+  body.champagne-gold-theme #withdrawal .withdrawableBalance,
+  body.champagne-gold-theme #withdrawal .withdrawableAmount {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  body.champagne-gold-theme #withdrawal .withdrawableAmount > i {
+    left: auto !important;
+    margin-left: 6px !important;
+    margin-right: 5px !important;
+  }
+  body.champagne-gold-theme #withdrawal #operateAmount {
+    line-height: normal !important;
+  }
+  body.champagne-gold-theme #withdrawal #operateAmount::placeholder {
+    line-height: normal !important;
+  }
+}
+body.champagne-gold-theme #mine {
+  padding: 10px 10px 7rem !important;
+  box-sizing: border-box !important;
+}
+body.champagne-gold-theme #mine .mine-container {
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: visible !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+body.champagne-gold-theme #mine .mine-top,
+body.champagne-gold-theme #mine .mine-common,
+body.champagne-gold-theme #mine .mine-menus {
+  position: relative !important;
+  z-index: 1 !important;
+  margin: 0 0 10px !important;
+  padding: 12px !important;
+  box-sizing: border-box !important;
+  background: rgba(0, 0, 0, 0.56) !important;
+  border: 1px solid rgba(254, 216, 4, 0.2) !important;
+  border-radius: 12px !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.06),
+    0 8px 20px rgba(0, 0, 0, 0.34) !important;
+  backdrop-filter: blur(3px) !important;
+  -webkit-backdrop-filter: blur(3px) !important;
+}
+body.champagne-gold-theme #mine .mine-top {
+  min-height: auto !important;
+  overflow: visible !important;
+  background-image: none !important;
+}
+body.champagne-gold-theme #mine .mine-top .mine-info {
+  height: auto !important;
+  min-height: 84px !important;
+  margin: 0 0 12px !important;
+  gap: 12px !important;
+}
+body.champagne-gold-theme #mine .mine-top .mine-info .mine-head {
+  width: 58px !important;
+  height: 58px !important;
+  min-width: 58px !important;
+  margin: 0 !important;
+}
+body.champagne-gold-theme #mine .mine-top .mine-info .mine-info-name h3 {
+  font-size: 24px !important;
+  line-height: 1.1 !important;
+  margin: 0 0 8px !important;
+}
+body.champagne-gold-theme #mine .mine-top .mine-info .mine-info-name p {
+  font-size: 16px !important;
+  line-height: 1.2 !important;
+}
+body.champagne-gold-theme #mine .mine-top .mine-info .about {
+  width: 28px !important;
+  min-width: 28px !important;
+  height: 28px !important;
+  margin: 0 !important;
+  filter: brightness(0) invert(1) !important;
+}
+body.champagne-gold-theme #mine .mine-statistics-container {
+  position: static !important;
+  width: 100% !important;
+  height: auto !important;
+  overflow: visible !important;
+  display: block !important;
+}
+body.champagne-gold-theme #mine .mine-statistics {
+  transform: none !important;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  padding: 6px !important;
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 6px !important;
+  background: rgba(254, 216, 4, 0.12) !important;
+  border: 1px solid rgba(254, 216, 4, 0.18) !important;
+  border-radius: 12px !important;
+  box-shadow: none !important;
+}
+body.champagne-gold-theme #mine .mine-statistics li,
+body.champagne-gold-theme #mine .mine-statistics li:first-child {
+  width: auto !important;
+  min-width: 0 !important;
+  min-height: 74px !important;
+  padding: 8px 6px !important;
+  box-sizing: border-box !important;
+}
+body.champagne-gold-theme #mine .mine-common dd,
+body.champagne-gold-theme #mine .mine-menus li,
+body.champagne-gold-theme #mine .mine-statistics li {
+  background: rgba(0, 0, 0, 0.32) !important;
+  border: 1px solid rgba(254, 216, 4, 0.14) !important;
+  border-radius: 10px !important;
+}
+body.champagne-gold-theme #mine .mine-common {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 8px !important;
+  align-items: stretch !important;
+}
+body.champagne-gold-theme #mine .mine-common dd {
+  flex-basis: auto !important;
+  min-height: 88px !important;
+  margin: 0 !important;
+  padding: 10px 8px !important;
+  box-sizing: border-box !important;
+}
+body.champagne-gold-theme #mine .mine-common dd img {
+  width: 34px !important;
+  height: 34px !important;
+  margin: 0 0 8px !important;
+}
+body.champagne-gold-theme #mine .mine-common dd span {
+  font-size: 15px !important;
+  line-height: 1.18 !important;
+}
+body.champagne-gold-theme #mine .mine-menus ul {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 8px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+body.champagne-gold-theme #mine .mine-menus li {
+  min-height: 58px !important;
+  height: auto !important;
+  padding: 0 12px !important;
+  box-sizing: border-box !important;
+  border-bottom: 0 !important;
+}
+body.champagne-gold-theme #mine .mine-menus li img {
+  width: 26px !important;
+  min-width: 26px !important;
+  height: 26px !important;
+  margin: 0 12px 0 0 !important;
+  filter: brightness(0) invert(1) opacity(0.86) !important;
+}
+body.champagne-gold-theme #mine .mine-menus li b {
+  min-width: max-content !important;
+  max-width: 52% !important;
+  margin: 0 10px 0 0 !important;
+  font-size: 15px !important;
+  line-height: 1.15 !important;
+}
+body.champagne-gold-theme #mine .mine-menus li i {
+  font-size: 14px !important;
+  line-height: 1.2 !important;
+}
+body.champagne-gold-theme #mine .mine-menus li::after {
+  opacity: 1 !important;
+  filter: brightness(0) invert(1) !important;
+}
+body.champagne-gold-theme #mine .mine-info-name h3,
+body.champagne-gold-theme #mine .mine-info-name p,
+body.champagne-gold-theme #mine .mine-info-name span,
+body.champagne-gold-theme #mine .mine-common dd span,
+body.champagne-gold-theme #mine .mine-menus li b,
+body.champagne-gold-theme #mine .mine-menus li i,
+body.champagne-gold-theme #mine .mine-statistics li b,
+body.champagne-gold-theme #mine .mine-statistics li span,
+body.champagne-gold-theme #mine .mine-statistics li em,
+body.champagne-gold-theme #mine .mine-statistics li i {
+  color: #ffffff !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.85) !important;
+}
+body.champagne-gold-theme #mine .myPurse span,
+body.champagne-gold-theme #mine .myPurse em,
+body.champagne-gold-theme #mine .myPurse i {
+  color: #fed804 !important;
+}
+@media (max-width: 560px) {
+  body.champagne-gold-theme #mine {
+    padding: 8px 8px 7rem !important;
+  }
+  body.champagne-gold-theme #mine .mine-top,
+  body.champagne-gold-theme #mine .mine-common,
+  body.champagne-gold-theme #mine .mine-menus {
+    margin: 0 0 8px !important;
+    padding: 10px !important;
+    border-radius: 10px !important;
+  }
+  body.champagne-gold-theme #mine .mine-top .mine-info {
+    min-height: 74px !important;
+    margin-bottom: 10px !important;
+  }
+  body.champagne-gold-theme #mine .mine-top .mine-info .mine-head {
+    width: 50px !important;
+    height: 50px !important;
+    min-width: 50px !important;
+  }
+  body.champagne-gold-theme #mine .mine-top .mine-info .mine-info-name h3 {
+    font-size: 20px !important;
+  }
+  body.champagne-gold-theme #mine .mine-top .mine-info .mine-info-name p {
+    font-size: 14px !important;
+  }
+  body.champagne-gold-theme #mine .mine-statistics {
+    gap: 5px !important;
+    padding: 5px !important;
+  }
+  body.champagne-gold-theme #mine .mine-statistics li,
+  body.champagne-gold-theme #mine .mine-statistics li:first-child {
+    min-height: 62px !important;
+    padding: 6px 4px !important;
+  }
+  body.champagne-gold-theme #mine .mine-statistics li img {
+    width: 28px !important;
+    height: 24px !important;
+    margin-bottom: 5px !important;
+  }
+  body.champagne-gold-theme #mine .mine-common {
+    gap: 6px !important;
+  }
+  body.champagne-gold-theme #mine .mine-common dd {
+    min-height: 78px !important;
+  }
+  body.champagne-gold-theme #mine .mine-menus li {
+    min-height: 52px !important;
+    padding: 0 10px !important;
+  }
+}
